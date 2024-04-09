@@ -1,0 +1,51 @@
+.row .passport img{
+    width: 100%;
+    height: 40vh;
+    border-radius:60px ;
+    ;
+
+}
+.row{
+
+
+    border-radius: 20px;
+}
+
+.row .passport .card{
+    color: white;
+    background-color: grey;
+}
+
+.row .passport .card:hover{
+    color: gold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
